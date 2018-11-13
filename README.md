@@ -1,12 +1,13 @@
 # Healthcare-India-Data-Analysis
 
-Every year, 55 million Indians are propelled into poverty because of out-of-
-pocket expenditure on health care, primarily medicine costs. The country
-currently spend just 1.4 percent of its gross domestic product on health care —
-one of the lowest expenditures in the world. Last year, however, the country
-released its new National Health Policy, the first in 14 years, and pledged to
-boost health care spending up to 2.5 percent by 2025.
-While care in government-run hospitals is technically free for everyone, the
-system is marred by long queues, poor quality of care, and a lack of human
-resources.
+Big data analytics is the process of examining large and varied data sets i.e.,
+big data to uncover hidden patterns, unknown correlations, market trends,
+customer preferences and other useful information that can help organizations
+make more-informed business decisions.
+
+Healthcare System in India has a lot of problems. I decided to investigate these
+problems with help of Data Science. I downloaded datasets in CSV format.
+Cleaned the datasets and tried to find out meaningful patterns and derived
+results from these data sets. I found out details about present scenario of
+health centres of all states in India, their shortage , their current numbers .
 
