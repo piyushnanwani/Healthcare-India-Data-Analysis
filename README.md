@@ -11,3 +11,7 @@ Cleaned the datasets and tried to find out meaningful patterns and derived
 results from these data sets. I found out details about present scenario of
 health centres of all states in India, their shortage , their current numbers .
 
+Dataset                : health.csv
+Graphs(Final results)  : Graphs 
+code(Jupyter notebook) : healthDataAnalysis.ipynb
+sql queries            : healthAnalysisQueries.md
