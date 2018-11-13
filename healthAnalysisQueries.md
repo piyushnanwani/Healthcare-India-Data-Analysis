@@ -25,7 +25,7 @@ OUTPUT
 +--------------------+-----------------+---------+---------+
 ~~~
 
-###(2) States with no shortage of sub_centres,phc,chc
+### (2) States with no shortage of sub_centres,phc,chc
 INPUT
 ~~~
 check2 = spark.sql("select state from df1_table where sub_centres_short==0 and phc_short==0 and chc_short==0 ")
@@ -46,7 +46,7 @@ OUTPUT
 +--------------------+
 ~~~
 
-###(3) Top 5 most populated states
+### (3) Top 5 most populated states
 INPUT
 ~~~
 check3 = spark.sql("select state,population from df1_table order by population desc limit 5")
@@ -64,7 +64,7 @@ OUTPUT
 +--------------+----------+
 ~~~
 
-###(4) State with maximum tribal population
+### (4) State with maximum tribal population
 
 INPUT
 ~~~
@@ -80,7 +80,7 @@ OUTPUT
 
 ~~~
 
-###(5)all details of  Lakshadweep
+### (5)all details of  Lakshadweep
 INPUT
 ~~~
 check5 = spark.sql("select *  from df1_table where state='Lakshadweep'")
