@@ -18,3 +18,26 @@ Graphs(Final results)  : Graphs
 code(Jupyter notebook) : healthDataAnalysis.ipynb
 
 sql queries            : healthAnalysisQueries.md
+
+## Data Visualisation
+
+1. States with shortage of Community Health Centres
+<img src ="https://github.com/piyushnanwani/Healthcare-India-Data-Analysis/blob/master/Graphs/chc_shortage.png">
+
+2. States with surplus of Community Health Centres
+<img src ="https://github.com/piyushnanwani/Healthcare-India-Data-Analysis/blob/master/Graphs/chc_surplus.png">
+
+3. Sub - Centres shortfall
+<img src ="https://github.com/piyushnanwani/Healthcare-India-Data-Analysis/blob/master/Graphs/df1.png">
+
+4. Shortage of Primary health centres
+<img src ="https://github.com/piyushnanwani/Healthcare-India-Data-Analysis/blob/master/Graphs/phc_shortage.png">
+
+5. Surplus of Primary health centres
+<img src ="https://github.com/piyushnanwani/Healthcare-India-Data-Analysis/blob/master/Graphs/phc_surplus.png">
+
+6. Shortage of sub centres
+<img src ="https://github.com/piyushnanwani/Healthcare-India-Data-Analysis/blob/master/Graphs/sub_centres_shortage.png">
+
+7. Surplus of sub centres
+<img src ="https://github.com/piyushnanwani/Healthcare-India-Data-Analysis/blob/master/Graphs/sub_centres_surplus.png">
